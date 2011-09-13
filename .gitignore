@@ -1,0 +1,9 @@
+*.iml
+.idea
+coverage
+rdoc
+doc
+.yardoc
+.bundle
+pkg
+tmp
