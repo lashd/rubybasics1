@@ -5,8 +5,10 @@ Story: I went in to a shop and I bought:
 
 FILL IN
 
-Write a till for me to run the items I have chosen through
+Write a till for me to run through the items I have chosen.
 
 produce a receipt
+
 find the cost of an item
+
 remove an item
