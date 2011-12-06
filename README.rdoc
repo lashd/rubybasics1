@@ -3,7 +3,23 @@
 == Excercise:
 Story: I went in to a shop and I bought:
 
-FILL IN
+orange = 10p
+apple = 20p
+bread = £1.10
+tomato = 25p
+cereal = £2.34
+
+shopping list
+orange
+apple
+apple
+orange
+tomato
+cereal
+bread
+orange
+tomato
+
 
 Write a till for me to run through the items I have chosen.
 
