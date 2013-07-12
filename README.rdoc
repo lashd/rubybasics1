@@ -1,15 +1,9 @@
 = shop
 
 == Excercise:
-Story: I went in to a shop and I bought:
+Story: I went in to a shop with the following shopping list:
 
-orange = 10p
-apple = 20p
-bread = £1.10
-tomato = 25p
-cereal = £2.34
-
-shopping list
+=== Shopping list
 orange
 apple
 apple
@@ -21,6 +15,23 @@ orange
 tomato
 
 
+
+===Price list
+The prices of the above items are  
+
+orange = 10p  
+apple = 20p  
+bread = £1.10  
+tomato = 25p  
+cereal = £2.34 
+
+shopping list
+
+==Task 1
+Add to the code in shop.rb to print out the cost of the shopping list in pence
+
+
+== Don't do below this point yet :)
 Write a till for me to run through the items I have chosen.
 
 produce a receipt
