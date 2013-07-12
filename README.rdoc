@@ -4,31 +4,29 @@
 Story: I went in to a shop with the following shopping list:
 
 === Shopping list
-orange
-apple
-apple
-orange
-tomato
-cereal
-bread
-orange
-tomato
+*  orange
+*  apple
+*  apple
+*  orange
+*  tomato
+*  cereal
+*  bread
+*  orange
+*  tomato
 
 
 
 ===Price list
 The prices of the above items are  
 
-orange = 10p  
-apple = 20p  
-bread = £1.10  
-tomato = 25p  
-cereal = £2.34 
-
-shopping list
+*  orange = 10p  
+*  apple = 20p  
+*  bread = £1.10  
+*  tomato = 25p  
+*  cereal = £2.34 
 
 ==Task 1
-Add to the code in shop.rb to print out the cost of the shopping list in pence
+Add to the code in lib/shop.rb to print out the cost of the shopping list in pence
 
 
 == Don't do below this point yet :)
